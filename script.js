@@ -1,4 +1,4 @@
-// hw1
+//hw1
 /*
 function checkAge(age) {
   if (age > 18) {
